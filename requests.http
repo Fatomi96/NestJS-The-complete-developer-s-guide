@@ -12,4 +12,4 @@ Content-Type: application/json
 
 
 ### Get a particular message
-Get http://localhost:3000/messages/559
+Get http://localhost:3000/messages/60
